@@ -47,8 +47,7 @@
 
 ###
 
-<p align="left">📧 TSCruz1@outlook.com <br>
-                [![Linkedin Badge](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomasscruz/)<br>
+<p align="left">📧 TSCruz1@outlook.com
 
 ###
 
@@ -102,7 +101,6 @@
 
 ###
 
-<p align="left">📧 TSCruz1@outlook.com <br>
-                [![Linkedin Badge](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomasscruz/)<br>
+<p align="left">📧 TSCruz1@outlook.com
 
 ###
