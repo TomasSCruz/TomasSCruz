@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="left">Hola 👋 Que tal?</h1>
+<h1 align="left">Hola 👋 ¿Qué tal?</h1>
 
 ###
 
